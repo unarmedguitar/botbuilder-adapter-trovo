@@ -1,0 +1,44 @@
+{
+  "name": "botbuilder-adapter-trovo",
+  "version": "1.0.0",
+  "description": "An adapter to support Trovo.live chat using botkit and botbuilder",
+  "keywords": [
+    "bot, botkit, botbuilder, adapter, trovo, chat"
+  ],
+  "homepage": "https://github.com/unarmedguitar/botbuilder-adapter-trovo#readme",
+  "bugs": {
+    "url": "https://github.com/unarmedguitar/botbuilder-adapter-trovo/issues",
+    "email": "unarmedguitar@protonmail.com"
+  },
+  "license": "MIT",
+  "author": "unarmedguitar <unarmedguitar@protonmail.com> (https://github.com/unarmedguitar/)",
+  "funding": [
+    {
+      "type": "individual",
+      "url": "https://streamelements.com/unarmedguitar/tip"
+    },
+    {
+      "type": "patreon",
+      "url": "https://www.patreon.com/unarmedguitar"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/unarmedguitar/botbuilder-adapter-trovo.git"
+  },
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "botbuilder": "^4.11.0",
+    "botkit": "^4.10.0",
+    "dotenv": "^8.2.0",
+    "playwright": "^1.7.1",
+    "pbf": "^3.2.1"
+  },
+  "devDependencies": {},
+  "directories": {
+    "lib": "lib"
+  }
+}
