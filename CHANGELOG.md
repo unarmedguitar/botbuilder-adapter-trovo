@@ -1,5 +1,11 @@
 # Changelog
 
+## [1.0.3] - 2021-05-16
+### Fixed
+- Issue #1 undefined url
+### Changed
+- Cookies are renewed after expiring
+
 ## [1.0.2] - 2021-02-14
 ### Added
 - Can now Ctrl-C to exit without error
