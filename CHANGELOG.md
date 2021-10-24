@@ -1,5 +1,9 @@
 # Changelog
 
+## [1.0.5] - 2021-10-24
+## Fixed
+- Typo arghh!
+
 ## [1.0.4] - 2021-10-24
 ### Fixed
 - Speed up was not working correctly
