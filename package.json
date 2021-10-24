@@ -1,6 +1,6 @@
 {
     "name": "botbuilder-adapter-trovo",
-    "version": "1.0.4",
+    "version": "1.0.5",
     "description": "An adapter to support Trovo.live chat using botkit and botbuilder",
     "keywords": [
         "bot, botkit, botbuilder, adapter, trovo, chat"
