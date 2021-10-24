@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.4] - 2021-10-24
+### Fixed
+- Speed up was not working correctly
+### Changed
+- Chromium only browser support
+- Placed hardcoded URLs into constants.js
+
 ## [1.0.3] - 2021-05-16
 ### Fixed
 - Issue #1 undefined url
